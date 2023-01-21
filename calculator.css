@@ -1,0 +1,21 @@
+
+.number{
+    border: 1px solid wheat;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+    
+}
+.oparator{
+    border: 1px solid white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+}
+#dot{
+    font-size: 20px;
+}
